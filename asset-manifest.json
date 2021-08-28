@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.7e3e0325.chunk.js": "/banana-epic/static/js/0.7e3e0325.chunk.js",
+    "static/js/0.7e3e0325.chunk.js.map": "/banana-epic/static/js/0.7e3e0325.chunk.js.map",
+    "static/js/1.941ccee9.chunk.js": "/banana-epic/static/js/1.941ccee9.chunk.js",
+    "static/js/1.941ccee9.chunk.js.map": "/banana-epic/static/js/1.941ccee9.chunk.js.map",
+    "main.css": "/banana-epic/static/css/main.2f79bda8.chunk.css",
+    "main.js": "/banana-epic/static/js/main.b0554452.chunk.js",
+    "main.js.map": "/banana-epic/static/js/main.b0554452.chunk.js.map",
+    "runtime-main.js": "/banana-epic/static/js/runtime-main.0ad23de1.js",
+    "runtime-main.js.map": "/banana-epic/static/js/runtime-main.0ad23de1.js.map",
+    "static/css/4.ba8a8a05.chunk.css": "/banana-epic/static/css/4.ba8a8a05.chunk.css",
+    "static/js/4.db680e24.chunk.js": "/banana-epic/static/js/4.db680e24.chunk.js",
+    "static/js/4.db680e24.chunk.js.map": "/banana-epic/static/js/4.db680e24.chunk.js.map",
+    "static/js/5.428184b8.chunk.js": "/banana-epic/static/js/5.428184b8.chunk.js",
+    "static/js/5.428184b8.chunk.js.map": "/banana-epic/static/js/5.428184b8.chunk.js.map",
+    "static/js/6.2062cb93.chunk.js": "/banana-epic/static/js/6.2062cb93.chunk.js",
+    "static/js/6.2062cb93.chunk.js.map": "/banana-epic/static/js/6.2062cb93.chunk.js.map",
+    "static/js/7.1bab31da.chunk.js": "/banana-epic/static/js/7.1bab31da.chunk.js",
+    "static/js/7.1bab31da.chunk.js.map": "/banana-epic/static/js/7.1bab31da.chunk.js.map",
+    "static/js/8.d7e41b0e.chunk.js": "/banana-epic/static/js/8.d7e41b0e.chunk.js",
+    "static/js/8.d7e41b0e.chunk.js.map": "/banana-epic/static/js/8.d7e41b0e.chunk.js.map",
+    "static/js/9.f57c9cf1.chunk.js": "/banana-epic/static/js/9.f57c9cf1.chunk.js",
+    "static/js/9.f57c9cf1.chunk.js.map": "/banana-epic/static/js/9.f57c9cf1.chunk.js.map",
+    "static/js/10.8a876573.chunk.js": "/banana-epic/static/js/10.8a876573.chunk.js",
+    "static/js/10.8a876573.chunk.js.map": "/banana-epic/static/js/10.8a876573.chunk.js.map",
+    "static/js/11.b947b7d6.chunk.js": "/banana-epic/static/js/11.b947b7d6.chunk.js",
+    "static/js/11.b947b7d6.chunk.js.map": "/banana-epic/static/js/11.b947b7d6.chunk.js.map",
+    "static/js/12.fc15362b.chunk.js": "/banana-epic/static/js/12.fc15362b.chunk.js",
+    "static/js/12.fc15362b.chunk.js.map": "/banana-epic/static/js/12.fc15362b.chunk.js.map",
+    "index.html": "/banana-epic/index.html",
+    "static/css/4.ba8a8a05.chunk.css.map": "/banana-epic/static/css/4.ba8a8a05.chunk.css.map",
+    "static/css/main.2f79bda8.chunk.css.map": "/banana-epic/static/css/main.2f79bda8.chunk.css.map",
+    "static/js/4.db680e24.chunk.js.LICENSE.txt": "/banana-epic/static/js/4.db680e24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad23de1.js",
+    "static/css/4.ba8a8a05.chunk.css",
+    "static/js/4.db680e24.chunk.js",
+    "static/css/main.2f79bda8.chunk.css",
+    "static/js/main.b0554452.chunk.js"
+  ]
+}
